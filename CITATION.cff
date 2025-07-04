@@ -1,28 +1,27 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite it as below."
-authors:
-  - family-names: Hemken
-    given-names: Niklas
-    orcid: https://orcid.org/0009-0001-3620-3462
-    affiliation: "Karlsruhe Institute of Technology"
-  - family-names: Koneru
-    given-names: Sai
-    affiliation: "Karlsruhe Institute of Technology"
-  - family-names: Jacob
-    given-names: Florian
-    orcid: https://orcid.org/0000-0002-5739-8852
-    affiliation: "Karlsruhe Institute of Technology"
-  - family-names: Hartenstein
-    given-names: Hannes
-    orcid: https://orcid.org/0000-0003-3441-3180
-    affiliation: "Karlsruhe Institute of Technology"
-  - family-names: Niehues
-    given-names: Jan
-    orcid: https://orcid.org/0000-0002-4231-6543
-    affiliation: "Karlsruhe Institute of Technology"
-title: "Can an LLM Keep My Secrets? A Study on LLM-Controlled Agents (Dataset and Code)"
-version: 1.0
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.15786758
-date-released: 2025-07-01
+references:
+  authors:
+    - family-names: Hemken
+      given-names: Niklas
+      orcid: https://orcid.org/0009-0001-3620-3462
+      affiliation: "Karlsruhe Institute of Technology"
+    - family-names: Koneru
+      given-names: Sai
+      affiliation: "Karlsruhe Institute of Technology"
+    - family-names: Jacob
+      given-names: Florian
+      orcid: https://orcid.org/0000-0002-5739-8852
+      affiliation: "Karlsruhe Institute of Technology"
+    - family-names: Hartenstein
+      given-names: Hannes
+      orcid: https://orcid.org/0000-0003-3441-3180
+      affiliation: "Karlsruhe Institute of Technology"
+    - family-names: Niehues
+      given-names: Jan
+      orcid: https://orcid.org/0000-0002-4231-6543
+      affiliation: "Karlsruhe Institute of Technology"
+  title: "Can an LLM Keep My Secrets? A Study on LLM-Controlled Agents (Dataset and Code)"
+  version: 1.0
+  doi: 10.5281/zenodo.15786758
+  date-released: 2025-07-01
